@@ -13,6 +13,9 @@
 		5E2F802029EB5014003173EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E2F801E29EB5014003173EE /* Main.storyboard */; };
 		5E2F802229EB5016003173EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E2F802129EB5016003173EE /* Assets.xcassets */; };
 		5E2F802529EB5016003173EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E2F802329EB5016003173EE /* LaunchScreen.storyboard */; };
+		5E2F802D29EB6492003173EE /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E2F802C29EB6492003173EE /* constants.swift */; };
+		5E2F802F29EB660A003173EE /* video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E2F802E29EB660A003173EE /* video.swift */; };
+		5E2F803129EB6648003173EE /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E2F803029EB6648003173EE /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		5E2F802129EB5016003173EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E2F802429EB5016003173EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E2F802629EB5016003173EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E2F802C29EB6492003173EE /* constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
+		5E2F802E29EB660A003173EE /* video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video.swift; sourceTree = "<group>"; };
+		5E2F803029EB6648003173EE /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				5E2F802129EB5016003173EE /* Assets.xcassets */,
 				5E2F802329EB5016003173EE /* LaunchScreen.storyboard */,
 				5E2F802629EB5016003173EE /* Info.plist */,
+				5E2F802C29EB6492003173EE /* constants.swift */,
+				5E2F802E29EB660A003173EE /* video.swift */,
+				5E2F803029EB6648003173EE /* Model.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				5E2F801D29EB5014003173EE /* ViewController.swift in Sources */,
 				5E2F801929EB5014003173EE /* AppDelegate.swift in Sources */,
 				5E2F801B29EB5014003173EE /* SceneDelegate.swift in Sources */,
+				5E2F803129EB6648003173EE /* Model.swift in Sources */,
+				5E2F802D29EB6492003173EE /* constants.swift in Sources */,
+				5E2F802F29EB660A003173EE /* video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
